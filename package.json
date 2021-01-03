@@ -4,6 +4,7 @@
   "description": "Multi staking",
   "author": "GeeknSeek@1337.no",
   "main": "app.js",
+  "private": true,
   "devDependencies": {
     "babel-loader": "^8.0.4",
     "bootstrap": "4.3.1",
